@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
         title: 'Atelier Flutter',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
+         // primarySwatch: Colors.red,
           primarySwatch: Colors.red,
         ),
 
